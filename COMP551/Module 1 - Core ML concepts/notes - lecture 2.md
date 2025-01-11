@@ -1,5 +1,7 @@
 # Lecture 2 - KNN
 
+* KNN is supervised learning
+
 Pop quiz:
 
 * ![1736435698763](image/notes-lecture2/1736435698763.png)
@@ -14,4 +16,3 @@ Pop quiz:
 ## Pairwise distance
 
 * Key step in KNN in predicting new data point x^(*) is to [find the K most similar examples]() in the training set using *Euclidean distance*
-*
