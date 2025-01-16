@@ -1,0 +1,11 @@
+*.*
+!*.tex
+!*.pdf
+!*.cs
+!*.jpg
+!*.png
+!*.jpeg
+!.gitignore
+!*.csv
+!*.ipynb
+!*.py
